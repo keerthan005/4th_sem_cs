@@ -1,0 +1,7 @@
+Welcome to computer science engineering
+The cources Avilable are:
+DSP
+SE
+JAVA
+OS
+IC
